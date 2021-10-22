@@ -1,0 +1,70 @@
+body {
+    background-image: URL(Foto\ curriculo\ dev.png);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+.btn{
+   width: 150px;
+   height: 60px;
+    color: white;
+    background:   #E7C6BF;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: #E7C6BF;
+
+
+}
+
+#button{
+    position: absolute;
+    top: 93%;
+    left: 8%;
+}
+
+#button2{
+    position: absolute;
+    top: 93%;
+    left: 23%;
+}
+
+#button3{
+    position: absolute;
+    top: 93%;
+    left: 38%;
+}
+
+#button4{
+    position: absolute;
+    top: 93%;
+    left: 53%;
+}
+
+#button5{
+    position: absolute;
+    top: 93%;
+    left: 68%;
+}
+
+#button6{
+    position: absolute;
+    top: 93%;
+    left: 83%;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #000000;
+}
+
+    

@@ -1,0 +1,59 @@
+.foto{
+    border-radius: 100%;
+    max-width: 200px;
+    border: 1px solid burlywood;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 140vh;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color:cornsilk
+}
+
+.button {
+    
+    background-color: #5e4caf; 
+     border: none;
+     outline: none;
+     color: white;
+     border-radius: 5px;
+     padding: 15px 32px;
+     text-align: center;  
+     text-decoration: none;
+     display: inline block;
+     font-size: 16px;
+     cursor: pointer;
+     margin: 20% auto;
+     box-shadow: 0 10px 2px  rgb (25, 54, 184, 0.562);
+ 
+ }
+ 
+ul{
+    list-style: none;
+    display:flex;
+    justify-content:flex-end;
+}
+
+li ul {
+    position: absolute;
+    left: 150px;
+    top: 0;
+    display: none;
+}
+
+.cor{
+    font-style: inherit;
+   
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #000000;
+}

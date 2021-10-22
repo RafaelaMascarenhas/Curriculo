@@ -1,0 +1,73 @@
+body {
+    background-image: URL(fale\ comigo.png);
+    background-repeat:no-repeat;
+    background-size: cover;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.btn{
+    width: 150px;
+    height: 60px;
+     color: white;
+     background:  #E7C6BF;
+     border: none;
+     border-radius: 10px;
+     cursor: pointer;
+     text-align: center;
+     font-size: 15px;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+ 
+ }
+ 
+ #button{
+    position:absolute;
+    top: 7%;
+    left: 88%;
+}
+
+#button2{
+    position: absolute;
+    top: 22%;
+    left: 88%;
+}
+
+#button3{
+    position: absolute;
+    top: 37%;
+    left: 88%;
+}
+
+#button4{
+    position: absolute;
+    top: 52%;
+    left: 88%;
+}
+
+#button5{
+    position: absolute;
+    top: 67%;
+    left: 88%;
+}
+
+#button6{
+   position: absolute;
+   top: 82%;
+   left: 88%;
+}
+
+div.espaçamento {
+    line-height: 1.5cm;
+    position:absolute;
+    top: 15%;
+    left: 25%;
+}
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #000000;
+}

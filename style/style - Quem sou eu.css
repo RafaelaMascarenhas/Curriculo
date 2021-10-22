@@ -1,0 +1,91 @@
+.btn{
+    width: 150px;
+    height: 60px;
+     color: white;
+     background:  #E7C6BF;
+     border: none;
+     border-radius: 10px;
+     cursor: pointer;
+     text-align: center;
+     font-size: 15px;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+ 
+ }
+ 
+ #button{
+     position: absolute;
+     top: 93%;
+     left: 20%;
+ }
+ 
+ #button2{
+     position: absolute;
+     top: 93%;
+     left: 33%;
+ }
+ 
+ #button3{
+     position: absolute;
+     top: 93%;
+     left: 46%;
+ }
+ 
+ #button4{
+     position: absolute;
+     top: 93%;
+     left: 59%;
+ }
+ 
+ #button5{
+     position: absolute;
+     top: 93%;
+     left: 72%;
+ }
+
+ #button6{
+    position: absolute;
+    top: 93%;
+    left: 72%;
+}
+ 
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: URL(QuemSouEu.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+
+}
+
+.texto{
+    position: absolute;
+    top: 5%;
+    left: 30%;
+}
+
+figure {
+    position: absolute;
+    top: -14%
+}
+
+h1 {
+    position: absolute;
+    left: 2%;
+    top: -3%;
+
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #000000;
+}
+
+img {
+    position: absolute;
+    top: 90px;
+    left: 50px ;
+}
